@@ -1,6 +1,8 @@
 # Exercise-1-Xinyue
 Exercise 1 about Zipf's Law of Abbreviation
 
+Colab notebook: https://colab.research.google.com/drive/1EG8J4SLk6pVK379l4U8rHHiYlBgcTb68?usp=sharing
+
 Packages needed are spacy, nltk (FreqDist), operator (itemgetter), matplotlib.pyplot, numpy, re and jieba.
 
 To down load Chinese pipeline of spacy, use "!python -m spacy download zh_core_web_sm".
